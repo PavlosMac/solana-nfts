@@ -1,0 +1,19 @@
+{
+    "name": "CrowS",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Eoj3mZs9Nrv3z3x21VRnh7eJZSRiCgLhF1M4A9nRyPEp",
+                "share": 100
+            }
+        ]
+    }
+}

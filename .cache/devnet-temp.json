@@ -1,0 +1,29 @@
+{
+    "program": {
+        "uuid": "EkYCJW",
+        "candyMachine": "EkYCJW2qmMfsBZqHT6qQAddor2zVRoWjKXtwXoPatw5U"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/AqNnaAAqrpY0wFamMftqy9XmHeCpoSQ5D9lZTlWKYBw",
+            "name": "mundin",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "1": {
+            "link": "https://arweave.net/mTTHDhU0N5reQz61WlN1jZ3lsFOQ-FavL6aKcSil-vA",
+            "name": "Vag",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "2": {
+            "link": "https://arweave.net/cfURcjqNcGIvvFVsKRlUogB4iseiIipffsCP7KDxAN8",
+            "name": "CrowS",
+            "onChain": true,
+            "verifyRun": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp",
+    "startDate": "621abf00"
+}
